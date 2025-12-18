@@ -32,7 +32,8 @@ NFR_002 Нефункциональное Высокая доступность �
 
 3.1 Диаграмма прецендентов
 
-<img width="551" height="1348" alt="image" src="https://github.com/user-attachments/assets/795033c4-0f27-4298-a437-1c4f302530fd" />
+<img width="551" height="1227" alt="image" src="https://github.com/user-attachments/assets/1fb3ec8e-e6df-4ee6-807f-e1143f5ab289" />
+
 
 
 

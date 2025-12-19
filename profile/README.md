@@ -91,7 +91,8 @@ NFR_002 Нефункциональное Высокая доступность �
 
 4.3 Архитектура проекта
 
-<img width="571" height="1526" alt="image" src="https://github.com/user-attachments/assets/3c48e03e-f5d8-4dbf-b393-1e79df2143d5" />
+<img width="571" height="1526" alt="image" src="https://github.com/user-attachments/assets/20d2349c-ec30-428c-9b82-79b2dbe6b770" />
+
 
 
 5. БД
